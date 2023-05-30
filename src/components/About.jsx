@@ -8,11 +8,11 @@ const About = () => {
           <div className="col-md-6">
             <h1 className="text-dark fw-bold mb-4">Sobre nós</h1>
             <p>
-              Atualmente, a loja de pneus possui uma vasta seleção de marcas e modelos, desde pneus para carros de passeio até veículos pesados. Além disso, ela oferece serviços especializados, como alinhamento de rodas, balanceamento e troca de pneus. Os clientes podem confiar na experiência e na qualidade da loja, sabendo que suas necessidades serão atendidas com profissionalismo e atenção.{" "}
+            A loja de vinhos e bebidas oferece uma seleção cuidadosamente curada de produtos de alta qualidade. Com uma ampla variedade de vinhos, destilados e outras bebidas, os clientes podem encontrar opções que atendam às suas preferências. Os funcionários estão prontos para ajudar e oferecer recomendações, e a loja também promove eventos especiais, como degustações e workshops. Em resumo, é um local ideal para os amantes de bebidas finas.{" "}
             </p>
             <p>
               {" "}
-              Ao chegar a 2023, a loja de pneus celebra oito anos de sucesso e crescimento contínuo. Sua reputação como um destino confiável para pneus de alta qualidade e serviços excepcionais continua a se fortalecer. Com uma visão clara, compromisso com a qualidade e dedicação à satisfação do cliente, a loja de pneus está pronta para qualquer desafio!{" "}
+              A loja também oferece eventos especiais, como degustações e workshops, que proporcionam aos clientes a oportunidade de aprofundar seus conhecimentos e apreciar ainda mais o mundo das bebidas. Essas ocasiões permitem que os clientes descubram novos sabores, aprendam sobre técnicas de degustação e conheçam produtores renomados.{" "}
             </p>
           </div>
           <div className="col-md-6 d-flex justify-content-center">
@@ -29,11 +29,11 @@ const About = () => {
           <div className="col-md-6">
             <h1 className="text-dark fw-bold mb-4">Saiba mais</h1>
             <p>
-              Atualmente, a loja de pneus possui uma vasta seleção de marcas e modelos, desde pneus para carros de passeio até veículos pesados. Além disso, ela oferece serviços especializados, como alinhamento de rodas, balanceamento e troca de pneus. Os clientes podem confiar na experiência e na qualidade da loja, sabendo que suas necessidades serão atendidas com profissionalismo e atenção.{" "}
+            Além disso, a loja de vinhos e bebidas se preocupa com a experiência do cliente. Os funcionários estão sempre prontos para auxiliar e aconselhar, compartilhando seus conhecimentos e recomendações para ajudar os clientes a fazerem a escolha perfeita. Eles estão dispostos a responder a qualquer pergunta, fornecer informações sobre os produtos e até mesmo sugerir combinações de alimentos e bebidas para realçar a experiência gastronômica.{" "}
             </p>
             <p>
               {" "}
-              Ao chegar a 2023, a loja de pneus celebra oito anos de sucesso e crescimento contínuo. Sua reputação como um destino confiável para pneus de alta qualidade e serviços excepcionais continua a se fortalecer. Com uma visão clara, compromisso com a qualidade e dedicação à satisfação do cliente, a loja de pneus está pronta para qualquer desafio!{" "}
+              Em resumo, a loja de vinhos e bebidas Malbec é um verdadeiro refúgio para os apreciadores de bebidas de qualidade. Com sua curadoria cuidadosa, variedade impressionante e serviço excepcional, essa loja oferece uma experiência única e satisfatória para todos os clientes que buscam descobrir e desfrutar de excelentes vinhos e bebidas.{" "}
             </p>
           </div>
           <div className="col-md-6 d-flex justify-content-center">

@@ -19,10 +19,10 @@ const Contact = () => {
             />
           </div>
           <div className="col-md-6">
-            <p> Email: melbec@gmail.com</p>
-            <p> Telefone:(11) 3348-9033</p>
-            <p> WhatsApp: (11) 97972-8033</p>
-            <p> Encontre nossa loja: Av Sapopeia, 509 - São Paulo, SP</p>
+            <p> Email: malbec@gmail.com</p>
+            <p> Telefone:(11) 9112-0734</p>
+            <p> WhatsApp: (11) 99301-4733</p>
+            <p> Encontre nossa loja: Av Sapopemba, 509 - São Paulo, SP</p>
             <p></p>
             <h3 className="text-dark">Muito Obrigado!!</h3>
           </div>
