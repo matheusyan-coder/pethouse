@@ -42,6 +42,11 @@ const Header = () => {
                   Contato
                 </NavLink>
               </li>
+              <li className="nav-item">
+                <NavLink className="nav-link" to="/FormCadastro">
+                  Cadastre-se
+                </NavLink>
+              </li>
             </ul>
             
           </div>
