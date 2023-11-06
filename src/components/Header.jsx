@@ -2,6 +2,7 @@ import React from "react";
 import { NavLink } from "react-router-dom";
 
 
+
 const Header = () => {
   return (
     <>
@@ -22,7 +23,7 @@ const Header = () => {
 
           <NavLink className="navbar-brand mx-auto fw-bold logo" to="/">
               {" "}
-              <img src="/logoVinC.png" alt="" width={180} height={120} />{" "}
+              <img src="https://img.freepik.com/vetores-premium/design-de-logotipo-para-loja-de-animais-com-cachorro-e-gato-no-meio-das-patas-de-cachorro-ilustracao-em-vetor-de-estencil-de-animais_463676-1415.jpg" alt="" width={150} height={130} />{" "}
             </NavLink>
 
             <ul className="navbar-nav me-auto mb-2 mb-lg-0">
@@ -48,6 +49,7 @@ const Header = () => {
                 </NavLink>
               </li>
             </ul>
+            
             
           </div>
         </div>
